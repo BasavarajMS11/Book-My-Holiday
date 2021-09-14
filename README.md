@@ -27,5 +27,15 @@ BookMyHoliday\bookmyholiday>python manage.py migrate
 8)Run server
 BookMyHoliday\bookmyholiday> python manage.py runserver 
 
+## Home Login Page
 ![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/Home.JPG?raw=true)
 <br/>
+
+## Register
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/register.JPG?raw=true)
+<br/>
+
+## Beaches: Home
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/Beacheshome.JPG?raw=true)
+<br/>
+
