@@ -56,3 +56,15 @@ BookMyHoliday\bookmyholiday> python manage.py runserver
 ![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/hillstations.JPG?raw=true)
 <br/>
 
+## Booking Form
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/bookingform.JPG?raw=true)
+<br/>
+
+## Cab System
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/cabsystem.JPG?raw=true)
+<br/>
+
+## Room Types
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/roomtypes.JPG?raw=true)
+<br/>
+
