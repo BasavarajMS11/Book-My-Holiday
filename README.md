@@ -1,7 +1,7 @@
 # Book-My-Holiday
 
-env variable: myenv
-projectname: bookmyholiday
+env variable: myenv; 
+projectname: bookmyholiday; 
 appname: myapp
 
 1)Open BookMyHoliday folder
