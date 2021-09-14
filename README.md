@@ -39,3 +39,20 @@ BookMyHoliday\bookmyholiday> python manage.py runserver
 ![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/Beacheshome.JPG?raw=true)
 <br/>
 
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/beaches.JPG?raw=true)
+<br/>
+
+## Heritage Sites: Home
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/heritagehome.JPG?raw=true)
+<br/>
+
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/heritagesites.JPG?raw=true)
+<br/>
+
+## Hillstations: Home
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/hillstationhome.JPG?raw=true)
+<br/>
+
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/hillstations.JPG?raw=true)
+<br/>
+
