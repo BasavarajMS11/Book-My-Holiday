@@ -68,3 +68,10 @@ BookMyHoliday\bookmyholiday> python manage.py runserver
 ![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/roomtypes.JPG?raw=true)
 <br/>
 
+## Profile
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/profile.JPG?raw=true)
+<br/>
+
+## Previous Bookings
+![alt text](https://github.com/BasavarajMS11/Book-My-Holiday/blob/master/Images/previousbookings.JPG?raw=true)
+<br/>
