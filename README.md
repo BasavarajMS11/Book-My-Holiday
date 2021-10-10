@@ -2,7 +2,7 @@
 
 
 env variable: myenv; 
-projectname: bookmyholiday; 
+projectname:  bookmyholiday; 
 appname: myapp
 
 1)Open BookMyHoliday folder
