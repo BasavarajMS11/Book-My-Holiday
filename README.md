@@ -7,7 +7,7 @@ appname: myapp
 
 1)Open BookMyHoliday folder
 
-2)Enable virtual environment(myenv)  using
+2)Enable virtual environment(myenv) using 
 BookMyHoliday> .\myenv\Scripts\activate
 
 3)cd bookmyholiday
