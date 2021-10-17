@@ -1,7 +1,7 @@
 # Book-My-Holiday
 
 
-env variable: myenv; 
+env variable: myenv;  
 projectname:  bookmyholiday; 
 appname: myapp
 
